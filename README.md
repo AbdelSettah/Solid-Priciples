@@ -8,4 +8,5 @@ This project explains SOLID principles of clean code.
 ### Interface segregation principle
 ### Dependency inversion principle
 
+
 Clean code is not a broom, but a philosophy ;-)
