@@ -1,6 +1,6 @@
 # Solid-Priciples
 
-This project explains SOLID principles of clean code.
+This project explains SOLID principles of clean code, implemented in java
 
 ### Single Responsability principle
 ### Open Close principle
